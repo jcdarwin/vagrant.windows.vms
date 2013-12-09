@@ -2,7 +2,7 @@
 
 This is instructions on how to create a VirtualBox Windows VM guest for use with Vagrant.
 
-The VM created using these instructions is [available for download here](https://drive.google.com/file/d/0B4d7a4alPxxDZV9NRXQ1NGhIWk0/edit?usp=sharing).
+The VM created using these instructions, around 3G in size, is [available for download here](https://drive.google.com/file/d/0B4d7a4alPxxDZV9NRXQ1NGhIWk0/edit?usp=sharing).
 
 #Create our Vagrant project
 * Install vagrant
