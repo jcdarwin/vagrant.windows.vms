@@ -60,7 +60,7 @@ The VM created using these instructions, around 3G in size, is [available for do
 
   * password: passw0rd!
 
-* Install [[freesshd|http://www.freesshd.com/]] onto the guest, and:
+* Install [freesshd](http://www.freesshd.com/) onto the guest, and:
 
   * create an administrator user with a password
 
